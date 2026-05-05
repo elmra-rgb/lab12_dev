@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab12_dev</string>
+
+    <!-- Messages GPS -->
+    <string name="gps_provider_enabled">Le fournisseur %s est maintenant activé</string>
+    <string name="gps_provider_disabled">Le fournisseur %s est maintenant désactivé</string>
+    <string name="gps_status_changed">Fournisseur %1$s : nouveau statut %2$s</string>
+    <string name="new_position_detected">Nouvelle position : Latitude = %1$.4f, Longitude = %2$.4f, Altitude = %3$.2f m, Précision = %4$.1f m</string>
+
+    <!-- Labels -->
+    <string name="latitude_label">Latitude : </string>
+    <string name="longitude_label">Longitude : </string>
+    <string name="show_map_button">Afficher la carte</string>
+
+    <!-- Permissions -->
+    <string name="permission_denied">Permission de localisation refusée</string>
+    <string name="permission_granted">Permission accordée</string>
+
+    <!-- Erreurs -->
+    <string name="network_error">Erreur réseau</string>
+    <string name="server_error">Erreur serveur</string>
+</resources>
